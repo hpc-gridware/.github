@@ -26,41 +26,6 @@ Technological advancements in CPU and GPU design necessitate advanced decision-m
 We aim to tackle these challenges, ensuring the Cluster Scheduler codebase can effectively support modern
 multi-core CPUs, GPUs, NPUs, and FPGAs.
 
-## Preparing for the Future
-
-Our immediate focus is on laying a robust foundation for the future of Cluster Scheduler. We’ll be:
-
-- Convert the code base to C++ and CMake.
-- Support modern development environments (e.g. CLion).
-- Updating internal data stores and threading mechanisms.
-- Enhancing concurrent execution within the master service for better thread parallelism.
-
-These updates will be part of the initial “Open Cluster Scheduler” release. Key enhancements planned for version 9.0.0
-will include:
-
-- RSMAPs for host-specific resource management, such as GPUs and other accelerators.
-- Integration with the hwloc library for hardware topology and architecture analysis.
-- Support for diverse computer architectures such as Linux on Intel/AMD64 (lx-amd64),
-  AArch64 (lx-arm64), OpenPower (lx-ppc64le), RISC-V (lx-riscv64),
-  Apple’s ARM-based CPUs (darwin-arm64),
-  Solaris on Intel/AMD64 (sol-amd64),
-  and FreeBSD for Intel/AMD64 (fbsd-amd64).
-- Enhanced online usage reporting and customizable accounting values.
-- Implementation of request limits to guard against denial-of-service attacks.
-- Container based builds.
-
-## Streamlining the System
-
-To further improve usability and maintainability, we plan to remove outdated or rarely-used components:
-
-- Discontinuing the old Motif-based GUI.
-- Removing qtcsh, in line with other commercial schedulers.
-- Phasing out complex components like the JGDI interface and its associated services.
-- Temporarily suspending CSP mode due to low user adoption.
-
-While these changes might seem disruptive, they are essential for modernizing the system. We recognize the need for
-alternatives to these functionalities and commit to providing replacements in the future.
-
 ## Join the Conversations
 
 We would love for you to join us in this exciting project! Please share your questions, suggestions, or interest in
