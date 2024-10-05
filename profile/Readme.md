@@ -11,9 +11,10 @@ HPC-Gridware GmbH. The new features will be released under the Apache Licence v2
 
 ## Code Repository
 
-Our main code repository for the Open Cluster Scheduler is hosted on GitHub and can be accessed here:
+Our main code repository for the Open Cluster Scheduler and the corresponding test environment are hosted on GitHub and can be accessed here:
 
-- [Open Cluster Scheduler Repository](https://github.com/hpc-gridware/clusterscheduler)
+- [Open Cluster Scheduler Code](https://github.com/hpc-gridware/clusterscheduler)
+- [Open Cluster Scheduler Testsuite](https://github.com/hpc-gridware/testsuite)
 
 ## Choosing the Code Base
 
