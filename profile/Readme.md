@@ -47,6 +47,7 @@ If you're ready to explore the Gridware Cluster Scheduler, which comes with enha
 
 - [Build Instructions](https://github.com/hpc-gridware/clusterscheduler/blob/master/doc/markdown/manual/development-guide/01_prepare_dev_env.md)
 - [Installation Guide](https://github.com/hpc-gridware/clusterscheduler/blob/master/doc/markdown/manual/installation-guide/01_planning_the_installation.md)
+- [Awesome Cluster Scheduler](https://github.com/hpc-gridware/awesome-clusterscheduler) - A curated list of links to integrated software packages.
 
 ## Cluster Scheduler Related Blog-Posts of HPC-Gridware
 
