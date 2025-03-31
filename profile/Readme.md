@@ -48,6 +48,7 @@ If you're ready to explore the Gridware Cluster Scheduler, which comes with enha
 
 ## Cluster Scheduler Related Blog-Posts of HPC-Gridware
 
+- [Unleashing the Full Power of NVIDIA GPUs with Gridware Cluster Scheduler: Transforming HPC and AI Workflows](https://www.hpc-gridware.com/unleashing-the-full-power-of-nvidia-gpus-with-gridware-cluster-scheduler-transforming-hpc-and-ai-workflows/)
 - [Announcing Gridware Cluster Scheduler 9.0.0 Release](https://www.hpc-gridware.com/announcing-gridware-cluster-scheduler-9-0-0-release/)
 - [Announcing Open Cluster Scheduler 9.0.0 Release](https://www.hpc-gridware.com/announcing-open-cluster-scheduler-9-0-0-release/)
 - [Running Nextflow Pipelines on Gridware Cluster Scheduler: An RNA Sequencing Example using Apptainer](https://www.hpc-gridware.com/running-nextflow-pipelines-on-gridware-cluster-scheduler-an-rna-sequencing-example-using-apptainer/)
