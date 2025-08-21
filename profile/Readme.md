@@ -3,18 +3,26 @@
 We are pleased to announce that we will continue the development of the Univa Open Core Grid Engine, which in
 turn is based on the open source Sun Grid Engine originally published by Sun Microsystems. Renamed
 "Open Cluster Scheduler", this project will remain open source under the SISSL v2 licence, with the source code
-available here.
+available here. The new features will be released under the Apache Licence v2.0.
 
-In addition to maintaining the open source version, we will introduce advanced features under the name
-"Gridware Cluster Scheduler". This iteration will be offered with commercial support and consulting services from
-HPC-Gridware GmbH. The new features will be released under the Apache Licence v2.0.
+In addition to maintaining the open source version, we will introduce advanced features under the name "Gridware Cluster Scheduler".
+This iteration will be offered with commercial support and consulting services from HPC-Gridware GmbH. Pre-built binaries for
+both the free Open Cluster Scheduler and the fully supported Gridware Cluster Scheduler can be downloaded
+[here](https://www.hpc-gridware.com/download-main/).
 
 ## Code Repository
 
-Our main code repository for the Open Cluster Scheduler and the corresponding test environment are hosted on GitHub and can be accessed here:
+Our main code repository for the Open Cluster Scheduler and the corresponding test environment are hosted
+on GitHub and can be accessed here:
 
 - [Open Cluster Scheduler Code](https://github.com/hpc-gridware/clusterscheduler)
 - [Open Cluster Scheduler Testsuite](https://github.com/hpc-gridware/testsuite)
+
+Additional repositories are:
+
+- [Go API wrapper](https://github.com/hpc-gridware/go-clusterscheduler)
+- [Java DRMAA](https://github.com/hpc-gridware/drmaa-java)
+- [Quick install](https://github.com/hpc-gridware/quickinstall)
 
 ## Choosing the Code Base
 
@@ -29,13 +37,16 @@ multi-core CPUs, GPUs, NPUs, and FPGAs.
 
 ## Join the Conversations
 
-We would be delighted if you would join us in this exciting project! Please let us know if you have any questions or suggestions, or if you are interested in participating in this project. Click here for the latest discussions.
+We would be delighted if you would join us in this exciting project! Please let us know if you have any questions
+or suggestions, or if you are interested in participating in this project. Click here for the latest discussions.
 
 - [Discussions](https://github.com/hpc-gridware/clusterscheduler/discussions)
   
 ## Explore Our Enhanced Offerings
 
-If you're ready to explore the Gridware Cluster Scheduler, which comes with enhanced features and rigorously tested releases across a broad spectrum of platforms, then get in touch! We also offer comprehensive long-term support and tailored upgrade strategies. We look forward to hearing from you!
+If you're ready to explore the Gridware Cluster Scheduler, which comes with enhanced features and rigorously tested
+releases across a broad spectrum of platforms, then get in touch! We also offer comprehensive long-term support and
+tailored upgrade strategies. We look forward to hearing from you!
 
 - sales@hpc-gridware.com
 - [HPC-Gridware](https://www.hpc-gridware.com/)
@@ -48,6 +59,8 @@ If you're ready to explore the Gridware Cluster Scheduler, which comes with enha
 
 ## Cluster Scheduler Related Blog-Posts of HPC-Gridware
 
+- [Leveraging Systemd Integration with Gridware Cluster Scheduler](https://www.hpc-gridware.com/leveraging-systemd-integration-with-gridware-cluster-scheduler/)
+- [Understanding Job Priority Configuration in Gridware Cluster Scheduler](https://www.hpc-gridware.com/understanding-job-priority-configuration-in-gridware-cluster-scheduler/)
 - [Unleashing the Full Power of NVIDIA GPUs with Gridware Cluster Scheduler: Transforming HPC and AI Workflows](https://www.hpc-gridware.com/unleashing-the-full-power-of-nvidia-gpus-with-gridware-cluster-scheduler-transforming-hpc-and-ai-workflows/)
 - [Announcing Gridware Cluster Scheduler 9.0.0 Release](https://www.hpc-gridware.com/announcing-gridware-cluster-scheduler-9-0-0-release/)
 - [Announcing Open Cluster Scheduler 9.0.0 Release](https://www.hpc-gridware.com/announcing-open-cluster-scheduler-9-0-0-release/)
