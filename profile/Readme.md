@@ -8,7 +8,7 @@ available here. The new features will be released under the Apache Licence v2.0.
 In addition to maintaining the open source version, we will introduce advanced features under the name "Gridware Cluster Scheduler".
 This iteration will be offered with commercial support and consulting services from HPC-Gridware GmbH. Pre-built binaries for
 both the free Open Cluster Scheduler and the fully supported Gridware Cluster Scheduler can be downloaded
-[here](https://www.hpc-gridware.com/download-main/).
+[here](https://hpc-gridware.com/download-main/).
 
 ## Code Repository
 
@@ -49,7 +49,7 @@ releases across a broad spectrum of platforms, then get in touch! We also offer 
 tailored upgrade strategies. We look forward to hearing from you!
 
 - sales@hpc-gridware.com
-- [HPC-Gridware](https://www.hpc-gridware.com/)
+- [HPC-Gridware](https://hpc-gridware.com/)
 
 ## Other Documents
 
@@ -59,16 +59,16 @@ tailored upgrade strategies. We look forward to hearing from you!
 
 ## Cluster Scheduler Related Blog-Posts of HPC-Gridware
 
-- [Leveraging Systemd Integration with Gridware Cluster Scheduler](https://www.hpc-gridware.com/leveraging-systemd-integration-with-gridware-cluster-scheduler/)
-- [Understanding Job Priority Configuration in Gridware Cluster Scheduler](https://www.hpc-gridware.com/understanding-job-priority-configuration-in-gridware-cluster-scheduler/)
-- [Unleashing the Full Power of NVIDIA GPUs with Gridware Cluster Scheduler: Transforming HPC and AI Workflows](https://www.hpc-gridware.com/unleashing-the-full-power-of-nvidia-gpus-with-gridware-cluster-scheduler-transforming-hpc-and-ai-workflows/)
-- [Announcing Gridware Cluster Scheduler 9.0.0 Release](https://www.hpc-gridware.com/announcing-gridware-cluster-scheduler-9-0-0-release/)
-- [Announcing Open Cluster Scheduler 9.0.0 Release](https://www.hpc-gridware.com/announcing-open-cluster-scheduler-9-0-0-release/)
-- [Running Nextflow Pipelines on Gridware Cluster Scheduler: An RNA Sequencing Example using Apptainer](https://www.hpc-gridware.com/running-nextflow-pipelines-on-gridware-cluster-scheduler-an-rna-sequencing-example-using-apptainer/)
-- [Efficiently Managing GPUs with Open Cluster Scheduler’s RSMAP Resource Type](https://www.hpc-gridware.com/efficiently-managing-gpus-with-open-cluster-schedulers-rsmap-resource-type/)
-- [Open Cluster Scheduler: The Future of Open Source Workload Management](https://www.hpc-gridware.com/announcing-open-cluster-scheduler-next-generation-open-source-workload-management/)
-- [Preparations for the first version of Cluster Scheduler](https://www.hpc-gridware.com/preparations-for-the-first-version-of-cluster-scheduler/)
-- [One product, three people and a handful of companies](https://www.hpc-gridware.com/one-product-three-people-and-a-handful-of-companies/)
+- [Leveraging Systemd Integration with Gridware Cluster Scheduler](https://hpc-gridware.com/leveraging-systemd-integration-with-gridware-cluster-scheduler/)
+- [Understanding Job Priority Configuration in Gridware Cluster Scheduler](https://hpc-gridware.com/understanding-job-priority-configuration-in-gridware-cluster-scheduler/)
+- [Unleashing the Full Power of NVIDIA GPUs with Gridware Cluster Scheduler: Transforming HPC and AI Workflows](https://hpc-gridware.com/unleashing-the-full-power-of-nvidia-gpus-with-gridware-cluster-scheduler-transforming-hpc-and-ai-workflows/)
+- [Announcing Gridware Cluster Scheduler 9.0.0 Release](https://hpc-gridware.com/announcing-gridware-cluster-scheduler-9-0-0-release/)
+- [Announcing Open Cluster Scheduler 9.0.0 Release](https://hpc-gridware.com/announcing-open-cluster-scheduler-9-0-0-release/)
+- [Running Nextflow Pipelines on Gridware Cluster Scheduler: An RNA Sequencing Example using Apptainer](https://hpc-gridware.com/running-nextflow-pipelines-on-gridware-cluster-scheduler-an-rna-sequencing-example-using-apptainer/)
+- [Efficiently Managing GPUs with Open Cluster Scheduler’s RSMAP Resource Type](https://hpc-gridware.com/efficiently-managing-gpus-with-open-cluster-schedulers-rsmap-resource-type/)
+- [Open Cluster Scheduler: The Future of Open Source Workload Management](https://hpc-gridware.com/announcing-open-cluster-scheduler-next-generation-open-source-workload-management/)
+- [Preparations for the first version of Cluster Scheduler](https://hpc-gridware.com/preparations-for-the-first-version-of-cluster-scheduler/)
+- [One product, three people and a handful of companies](https://hpc-gridware.com/one-product-three-people-and-a-handful-of-companies/)
 
 ## License
 
