@@ -10,6 +10,12 @@ This iteration will be offered with commercial support and consulting services f
 both the free Open Cluster Scheduler and the fully supported Gridware Cluster Scheduler can be downloaded
 [here](https://hpc-gridware.com/download-main/).
 
+For a quick single-node test or development setup on a fresh VM / container consider to run:
+
+```bash
+curl -s https://raw.githubusercontent.com/hpc-gridware/quickinstall/refs/heads/main/ocs.sh | OCS_VERSION=9.0.8 sh  
+```
+
 ## Code Repository
 
 Our main code repository for the Open Cluster Scheduler and the corresponding test environment are hosted
@@ -59,6 +65,8 @@ tailored upgrade strategies. We look forward to hearing from you!
 
 ## Cluster Scheduler Related Blog-Posts of HPC-Gridware
 
+- [Maximize Your Software License Investment with Gridware Cluster Scheduler](https://hpc-gridware.com/maximize-your-software-license-investment-with-gridware-cluster-scheduler/)
+- [Understanding Multi-Node Jobs in Gridware Cluster Scheduler and Open Cluster Scheduler](https://hpc-gridware.com/understanding-multi-node-jobs-in-gridware-cluster-scheduler-and-open-cluster-scheduler/)
 - [Leveraging Systemd Integration with Gridware Cluster Scheduler](https://hpc-gridware.com/leveraging-systemd-integration-with-gridware-cluster-scheduler/)
 - [Understanding Job Priority Configuration in Gridware Cluster Scheduler](https://hpc-gridware.com/understanding-job-priority-configuration-in-gridware-cluster-scheduler/)
 - [Unleashing the Full Power of NVIDIA GPUs with Gridware Cluster Scheduler: Transforming HPC and AI Workflows](https://hpc-gridware.com/unleashing-the-full-power-of-nvidia-gpus-with-gridware-cluster-scheduler-transforming-hpc-and-ai-workflows/)
