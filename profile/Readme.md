@@ -13,7 +13,7 @@ both the free Open Cluster Scheduler and the fully supported Gridware Cluster Sc
 For a quick single-node test or development setup on a fresh VM / container consider to run:
 
 ```bash
-curl -s https://raw.githubusercontent.com/hpc-gridware/quickinstall/refs/heads/main/ocs.sh | OCS_VERSION=9.0.8 sh  
+curl -s https://raw.githubusercontent.com/hpc-gridware/quickinstall/refs/heads/main/ocs.sh | OCS_VERSION=9.0.9 sh  
 ```
 
 ## Code Repository
