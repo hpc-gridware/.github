@@ -65,6 +65,7 @@ tailored upgrade strategies. We look forward to hearing from you!
 
 ## Cluster Scheduler Related Blog-Posts of HPC-Gridware
 
+- [Don’t Panic! Running Containers in Gridware and Open Cluster Scheduler](https://hpc-gridware.com/dont-panic-running-containers-in-gridware-and-open-cluster-scheduler/)
 - [Professional Workload Management for NVIDIA DGX SPARK: Desktop and Edge to Datacenter Scalability](https://hpc-gridware.com/professional-workload-management-for-nvidia-dgx-spark-desktop-and-edge-to-datacenter-scalability/)
 - [Gridware Cluster Scheduler 9.0.9: Smarter License Management and Enhanced Debugging](https://hpc-gridware.com/gridware-cluster-scheduler-9-0-9/)
 - [Introducing Qontrol: Modern Web UI for Gridware Cluster Scheduler](https://hpc-gridware.com/introducing-qontrol-modern-web-ui-for-gridware-cluster-scheduler/)
