@@ -26,9 +26,10 @@ on GitHub and can be accessed here:
 
 Additional repositories are:
 
+- [Gridware slurm-shim for running SLURM commands on OCS/GCS](https://github.com/hpc-gridware/slurm-shim)
 - [Go API wrapper](https://github.com/hpc-gridware/go-clusterscheduler)
 - [Java DRMAA](https://github.com/hpc-gridware/drmaa-java)
-- [Quick install](https://github.com/hpc-gridware/quickinstall)
+- [Quick install for testing in VMs and containers](https://github.com/hpc-gridware/quickinstall)
 
 ## Choosing the Code Base
 
@@ -65,6 +66,7 @@ tailored upgrade strategies. We look forward to hearing from you!
 
 ## Cluster Scheduler Related Blog-Posts of HPC-Gridware
 
+- [Gridware Cluster Scheduler 9.1.6: Smarter GPU Selection, Enterprise Login for Qontrol, and a Quickstart for Agents](https://hpc-gridware.com/gridware-cluster-scheduler-9-1-6-smarter-gpu-selection-enterprise-login-for-qontrol-and-a-quickstart-for-agents/)
 - [Open Cluster Scheduler and Gridware Cluster Scheduler 9.1.5: Device Isolation for Accelerators, Multi-Cluster Qontrol, and Scalable Per-Job Telemetry](https://hpc-gridware.com/open-cluster-scheduler-and-gridware-cluster-scheduler-9-1-5-device-isolation-for-accelerators-multi-cluster-qontrol-and-scalable-per-job-telemetry/)
 - [Open Cluster Scheduler and Gridware Cluster Scheduler 9.1.3: PostgreSQL Spooling, a Smoother Qontrol, and Sharper Reliability](https://hpc-gridware.com/open-cluster-scheduler-and-gridware-cluster-scheduler-9-1-3-postgresql-spooling-a-smoother-qontrol-and-sharper-reliability/)
 - [Bringing Posit Workbench to Gridware Cluster Scheduler](https://hpc-gridware.com/bringing-posit-workbench-to-gridware-cluster-scheduler/)
